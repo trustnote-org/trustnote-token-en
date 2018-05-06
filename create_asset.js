@@ -10,7 +10,7 @@ eventBus.on('headless_wallet_ready', function(){
 	headlessWallet.readSingleAddress(function(address){
 		setTimeout(function(){
 			var asset = {
-				cap: 100000,
+				cap: 1000000000000,
 				is_private: false,
 				is_transferrable: true,
 				auto_destroy: false,
