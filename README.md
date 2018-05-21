@@ -93,7 +93,7 @@ Congratulations if you have made this far! Now that you have your own tokens, I 
 
 Please keep in mind that real production grade token issuance and management will take more efforts and thorough tests. 
 
-Thanks for reading this. If you have any questions, please feel free to comment below.
+
 
 
 
